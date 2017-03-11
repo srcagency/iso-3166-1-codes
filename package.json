@@ -1,0 +1,13 @@
+{
+	"name": "iso-3166-1-codes",
+	"version": "1.0.0",
+	"description": "Just the codes, nothing more",
+	"repository": "srcagency/iso-3166-1-codes",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"tape": "^4.6.3"
+	},
+	"license": "MIT"
+}
