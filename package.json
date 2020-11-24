@@ -1,6 +1,6 @@
 {
 	"name": "iso-3166-1-codes",
-	"version": "1.0.1",
+	"version": "1.2.0",
 	"description": "Just the codes, nothing more",
 	"repository": "srcagency/iso-3166-1-codes",
 	"scripts": {
