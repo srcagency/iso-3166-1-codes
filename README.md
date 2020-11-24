@@ -32,9 +32,9 @@ byAlpha2.get('DK');
 
 ## Rationale
 
-There's a pletora of repositories of countries with some information and some
+There's a plethora of repositories of countries with some information and some
 features. I wanted just a list of countries to use as primary keys for related
 information.
 
 I encourage others to extend the data in new repositories using `numeric`,
-`alpha2` (my preference), `alpha3` as the country's key.
+`alpha2` (my preference), or `alpha3` as the country's key.
