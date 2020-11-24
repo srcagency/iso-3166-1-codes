@@ -8,7 +8,7 @@
 		"build": "csv-parser < data.csv | jq -s -c > data.json"
 	},
 	"devDependencies": {
-		"tape": "^4.6.3"
+		"tape": "^5.0.1"
 	},
 	"license": "MIT"
 }
