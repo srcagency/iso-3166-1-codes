@@ -4,7 +4,8 @@
 	"description": "Just the codes, nothing more",
 	"repository": "srcagency/iso-3166-1-codes",
 	"scripts": {
-		"test": "node test"
+		"test": "node test",
+		"build": "csv-parser < data.csv | jq -s -c > data.json"
 	},
 	"devDependencies": {
 		"tape": "^4.6.3"
